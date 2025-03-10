@@ -1,7 +1,7 @@
 PODS:
   - Alamofire (5.10.2)
   - AWSCore (2.40.1)
-  - HttpDNS (2.1.0):
+  - HttpDNS (2.2.0):
     - Alamofire
     - AWSCore
 
@@ -18,7 +18,7 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
   AWSCore: 29c85b2be07489b459cc17060b6354e9ba0f96a0
-  HttpDNS: 1191e043931f1ace457561899ee04e5405dee525
+  HttpDNS: 36dc56ad9d036a6a5e1e06ddc92521765460998b
 
 PODFILE CHECKSUM: bc5b9b230a72fdcc54fdbff432aaee317a44d80a
 

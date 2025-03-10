@@ -1,5 +1,15 @@
 # HttpDNS
 
+#Xcode16 compatible
+HttpDNS 2.2.0 is compiled by Xcode16, don't support Xcode16
+If you're using Xcode15, please use 2.1.0
+
+**Apple request developer to update to Xcode16**
+news link: https://developer.apple.com/news/?id=9s0rgdy9
+```
+Beginning April 24, 2025, apps uploaded to App Store Connect must be built with Xcode 16 or later using an SDK for iOS 18, iPadOS 18, tvOS 18, visionOS 2, or watchOS 11.
+```
+
 ## 1: Get the SDK
 
 ### (1) Add Pod source in you Pod file
